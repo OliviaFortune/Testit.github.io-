@@ -14,8 +14,7 @@
 
 function myFunction() {
   document.getElementById("demo1").innerHTML = "Hello Dolly!";
-  //Stores the text "Hello Dolly" in the HTML Element
-}
+ }
 
 </script>
 
