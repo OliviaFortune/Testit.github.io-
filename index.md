@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
-<body> //This is the HTML bit
+<body> 
 
-<h2>JavaScript Statements</h2> // Header
+<h2>JavaScript Statements</h2> 
 
-<p>JavaScript code blocks are written between { and }</p>   //paragraph
+<p>JavaScript code blocks are written between { and }</p>   
 
 <button type="button" onclick="myFunction()">Click Me!</button>
 
